@@ -1,1 +1,2 @@
-# ios-instagram-clon
+# ios-instagram-clone
+ios-instagram-clone
